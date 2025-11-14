@@ -4,3 +4,5 @@ Scout
 Chicken
 Monty
 Mocha
+George the Frog
+Lesi
